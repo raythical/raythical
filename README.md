@@ -1,5 +1,5 @@
 - Hi, I’m @raythical
-- I’m interested in coding, biology, healthcare, science
+- I’m interested in coding, politics, international relations
 - currently in highschool
 - I’m currently learning math-sci as a majority
 

@@ -1,7 +1,7 @@
 - Hi, I’m @raythical
-- I’m interested in coding, politics, international relations
+- I’m interested in coding, biology, and anything i can automate
 - currently in highschool
-- I’m currently learning math-sci as a majority
+- learning math-sci as a majority
 
 <!---
 raythical/raythical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
